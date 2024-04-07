@@ -42,6 +42,7 @@
 <h3><b>Contribution:</b></h3>
 <p>Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.</p>
 
-<h3>Contact</h3>
-Name: Vibinraj Rajesh<br>
+### Contact
+
+Name: Vibinraj Rajesh <br>
 Email: vibinrajesh2021@gmail.com
